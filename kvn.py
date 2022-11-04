@@ -1,20 +1,4 @@
 
-# import openpyxl
-# import os 
-# wb = openpyxl.load_workbook('testing_rasa.xlsx') #give the full path of the file here
-# sh = wb.active
-
-# c1 = sh.cell(row=1, column=3)
-# c2 = sh.cell(row=2, column=3)
-# c3 = sh.cell(row=3, column=3)
-# c4 = sh.cell(row=4, column=3)
-# c5 = sh.cell(row=5, column=3)
-# mean=(c1+c2+c3+c4+c5)/5
-# avg_bpm=90
-# if (mean>avg_bpm):
-
-
-
 
 import openpyxl
 from time import *
