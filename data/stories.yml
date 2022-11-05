@@ -1,0 +1,14 @@
+version: "2.0"
+
+stories:
+- story:
+  steps:
+  - intent : tell_details
+  - action : bot_challenge
+  - intent : greet 
+  - action : utter_ask
+  - or:
+     - intent : happy_mood
+     - intent : unhappy_mood
+  - action : utter_ask_problem
+  

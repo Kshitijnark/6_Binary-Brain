@@ -1,0 +1,22 @@
+{
+  "display": "show",
+  "guide": "show",
+  "watch": "show",
+  "observe": "show",
+  "look": "show",
+  "see": "show",
+  "glare": "show",
+  "stare": "show",
+  "glimpse": "show",
+  "infront": "front",
+  "back": "front",
+  "rear": "front",
+  "ahead": "front",
+  "behind": "front",
+  "beneath": "front",
+  "below": "front",
+  "left": "front",
+  "right": "front",
+  "before": "front",
+  "after": "front"
+}

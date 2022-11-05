@@ -1,0 +1,10 @@
+YOLO\yolov3.weights
+YOLO/yolov3.weights
+models/
+models\
+images\
+images/
+tasks/model/face_recogniser.pkl
+task\model\face_recogniser.pkl
+model\
+model/

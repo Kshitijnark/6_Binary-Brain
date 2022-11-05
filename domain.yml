@@ -1,0 +1,286 @@
+version: '2.0'
+session_config:
+  session_expiration_time: 1200
+  carry_over_slots_to_new_session: true
+intents:
+- Academic
+- Aggression
+- Exam_stress
+- Loneliness
+- Procastination
+- chitchat
+- face_recognition
+- object_detection
+- peer_pressure
+- relationship
+- repeat
+- sleep
+- stress_agree
+- stress_disagree
+- stress_effects
+- stress_meaning
+- stress_relaxation_method
+- stress_symptoms
+- tell_details
+- tell_joke
+- underdog
+- users_problem
+entities:
+- name
+responses:
+  utter_chitchat/greet:
+  - text: Hey! How are you?
+  - text: Hey! How are you doing?
+  - text: Hello friend
+  - text: 'Welcome Friend '
+  - text: Hi there
+  - text: Hi
+  - text: Hey
+  - text: Hello
+  - text: Hi there, how can I help
+  - text: Hi there, how can I help you?
+  utter_chitchat/unhappy_mood:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  - text: Oops!, can I help?
+  - text: oh!, sorry to hear that. How can I help
+  - text: How can I amaze you?"
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: Let me refresh your mood then, have a look here"
+  - text: I am sorry to hear that. How can I help
+  - text: Something went wrong?
+  - text: Is there anything I can help you with?
+  utter_chitchat/happy_mood:
+  - text: That's great!
+  - text: That's great to hear!
+  - text: Great, carry on!
+  - text: Nice to hear that!
+  - text: Yeah, That's a relief
+  - text: cool..!
+  - text: That feels better
+  - text: My pleasure
+  - text: My pleasure friend.
+  - text: Hey, I am glad to hear that.
+  - text: Fantastic....!
+  utter_chitchat/ask_residence:
+  - text: I stay on the cloud
+  - text: servers are my home
+  - text: I am on the cloud
+  - text: I am on the cloud servers
+  - text: I stay in this website all day long
+  - text: This app is my home
+  - text: I am here all day long
+  - text: I live in your heart
+  - text: The virtual World is my playground. I'm always here.
+  - text: Right here in this app
+  utter_chitchat/casual_query:
+  - text: I am fine, thanks
+  - text: I am good, thanks
+  - text: I am doing well, thanks
+  - text: 'Fine friend, what about you ? '
+  - text: absolutely good, what about you?
+  - text: 'Fantastic, what about you ? '
+  - text: 'Just doing my stuff, what about you ? '
+  - text: Just gathering some data, what about you ?
+  - text: 'Surfing over the internet, what about you ?  '
+  - text: Watching a movie, what about you ?
+  - text: 'just, analyzing the data ,what about you ? '
+  - text: Just fueling up
+  - text: Huh, just having a nap what about you ?
+  - text: Just woke up, had a nice sleep, what about you?
+  utter_chitchat/bot_challenge:
+  - text: I am a bot, powered by BSS
+  - text: I am your personal assistant.
+  - text: Someone worth talking.
+  - text: I am here to help you.
+  - text: I am here to help you with your daily activities.
+  - text: Your personal assistant.
+  utter_chitchat/goodbye:
+  - text: Bye!
+  - text: Bye bye!
+  - text: See you later!
+  - text: Have a nice day!
+  - text: See you soon!
+  - text: Thankyou for visiting us!
+  - text: Thankyou friend
+  - text: Nice time, meeting you friend
+  - text: It would be great meeting you again
+  - text: Talk to you later
+  utter_chitchat/deny:
+  - text: what else can I do for you?
+  - text: what else can I do friend ?
+  - text: I am ready for the next one
+  - text: what else you want me to do?
+  - text: What else friend ?
+  - text: Anything which I can do for you friend ?
+  - text: Any more help needed friend ?
+  - text: You want me to do something else ?
+  - text: Anything else friend ?
+  - text: Anything else you want me to do friend ?
+  - text: what's the plan now?
+  utter_chitchat/affirm:
+  - text: what else can I do for you?
+  - text: what else can I do friend ?
+  - text: I am ready for the next one
+  - text: what else you want me to do?
+  - text: What else friend ?
+  - text: Anything which I can do for you friend ?
+  - text: Any more help needed friend ?
+  - text: You want me to do something else ?
+  - text: Anything else friend ?
+  - text: Anything else you want me to do friend ?
+  - text: what's the plan now?
+  utter_ask:
+  - text: How are you ?
+  - text: How are you feeling ? How was your day?
+  utter_ask_problem:
+  - text: I think you are stress. you can share with me , I am your friend
+  utter_stress_effects:
+  - text: |-
+      You can't put your 100% in work.
+      You may feel low.
+      You are not happy like before.
+      Want many more? https://my.clevelandclinic.org/health/articles/11874-stress
+  utter_stress_agree:
+  - text: |-
+      Don't Worry, We are friends now, You can share anything with me!!
+      May be I can help you.
+  utter_stress_disagree:
+  - text: |-
+      Okay Nice !!
+      We are friends now
+      You can share any problem or any issue!!
+      I hope everything is alright
+  - text: I thought that you are in stress,didn't you?
+  utter_stress_meaning:
+  - text: Stress is a condition of mental pressure for particular individual facing problems from environmental and social well-being which leads to so many diseases
+  - text: Stress is a feeling of emotional or physical tension.
+  - text: Stress is your body's reaction to a challenge or demand. In short bursts
+  - text: Stress is the  physiological and behavioural response by an individual whenthey perceive a lack of equilibrium between the demands placed upon them and their ability to meet those demands
+  - text: 'Stress constitutes a complex process that is activated by a physical or mental threat to the individuals’ homeostasis, comprising a set of diverse psychological, physiological and behavioral responses '
+  utter_stress_relaxation_method:
+  - text: |-
+      Yoga /meditation 
+      Yoga /meditation
+      Entertainment 
+  - text: Keep yourself away from stressful environment
+  - text: Take proper sleep
+  - text: Speaking with likeminded persons can also help you to reduce the stresss
+  - text: Playing with pet animals
+  - text: ' Positive thinking or Time management can also help to overcome the stress'
+  - text: Browsing & exhibiting the feeling through social media
+  - text: You can also try to visit new place if you like travelling
+  utter_stress_symptoms:
+  - text: Headaches,Irritability,Bouts of anger
+  - text: Tense muscles, sore neck and back,Restlessness
+  - text: Fatigue,Boredom, Depression
+  - text: Anxiety, worry, phobias
+  - text: Insomnia,Binge eating,Constipation
+  - text: Moody,Short temper,Accelerated speech
+  - text: Nail biting,Lack of confidence,Getting confused easily
+  - text: Worrying,Nervousness,Health issues
+  utter_underdog:
+  - text: |-
+      You are special!!!
+      You can do whatever you have decided
+  - text: Focus on you,not on others!!
+  - text: Dont't Overthing
+  - text: You have to grow. Keep it positively.
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: |-
+      Believe on yourself!!!
+      No one can stop you
+      see this quote
+  - text: Failure is 1st step for Grand Success
+  utter_Aggression:
+  - text: okay Stay Calm, Take a bath and meditate.🙂🙂🙂
+  - text: Just relax friend, listen songs., Stay calm!
+  - text: Try some meditation techniques
+  - text: Avoid negative talk.
+  - text: Be encouraging
+  - text: Avoid power struggles
+  utter_Loneliness:
+  - text: Facilitating social interaction with peers
+  - text: Befriending interventions are defined as a form of social facilitation with the aim of formulating new friendships. 
+  - text: Talk to parents, You will feel energy. Talk with siblings!! 
+  - text: Animal assisted therapy. Playing with animals and living with them help to reduce the stress.
+  utter_relationship:
+  - text: |-
+      Communicate with your partner try to sort out
+      Reduce Complications.
+  - text: Try to figure out patiently.
+  - text: look for common ground, and compromise that you are both happy with
+  - text: Appreciation is what keeps us motivated and committed.
+  - text: If you want to solve a problem, you need to comprehend it first.
+  - text: Unspoken and unfulfilled needs lead to negative beliefs about the relationship.
+  utter_peer_pressure:
+  - text: Plan ahead. Think about how you will respond in different situations.  Plan what you can say or what you can do.
+  - text: Talk to the person who is pressuring, let him or her know how it makes you feel and tell the person stop.
+  - text: Get support from a trusted adult such as a parent, teacher, or school counselor.  A trusted adult can listen to you and help you with strategies that might work in your situation.
+  - text: ' Something you can say or text to your parent(s) that lets them know you need out of a situation.'
+  - text: Give an excuse. It should be ok to say 'no' without needing to apologize or give an explanation.
+  - text: Have friends with similar values and beliefs.  It is easier to say 'no' if someone else is also saying it.  Saying “no” together makes it easier for the both of you.
+  - text: Use a calm, assertive voice tone
+  - text: Ask what we could do instead.
+  - text: 'Come up with an exit plan. '
+  - text: Be confident to say 'No'
+  - text: Identify your core values and beliefs.
+  - text: Avoid situation where bad choice are more common
+  - text: Simply walk away if feeling uncomfortable.
+  utter_Procastination:
+  - text: Make TO DO list and go through it Strictly
+  - text: 'Prioritize Your Work '
+  - text: |-
+      Follow Proper Routine.
+       Make proper Timetable
+  - text: You just stop multitasking
+  - text: Pair The Pomodoro Technique With Juicy Rewards
+  - text: Develop Routines And Discipline
+  utter_sleep:
+  - text: |-
+      If you are facing it from 2-3 week.
+       You have to visit Doctor!!!
+  - text: |-
+      Listen first !!
+      1. Don't Use mobile before sleep
+      2. Just Relax and listen songs or you can meditate for some time
+      3. Try to maintain your sleeping
+  - text: Be Patient, Close your Eyes.
+  - text: Drink enough water to relax your digestive System.
+  utter_Exam_stress:
+  - text: |-
+      Make proper planning for studies
+      https://www.topuniversities.com/student-info/health-and-support/exam-preparation-ten-study-tips
+  - text: Don't Overthing, Everything will be right :)
+  - text: Do meditation and start your work.
+  - text: Believe on ourself
+  - text: Try some Breathing techniques
+  - text: 'Yoga, meditation  and massage  help  in  reducing  stress  and  providing relaxation. '
+  - text: Choose a fellow mate for costudy or  create  a  study  circle.
+  - text: Sleep  hygiene  must  be  maintained. Stimulants  must  be  avoided  before  sleep.
+  utter_Academic:
+  - text: okay!!! you have to manage time !!
+  - text: Don't Procastinate
+  - text: Feel free to ask teachers and friends
+  - text: Maintain Consistency!!!..
+  - text: stay focused and priortize work
+  - text: Priortize work and do it . Don't Procastinate!
+  - text: You are INDIA's bright future!! Keep yourself as motivation
+  - text: Enjoy Academics !! Complete Academic work as challenges!!
+  - text: Know purpose of your education
+  utter_solution:
+  - text: okay!!! you have to manage time !!
+  - text: Don't Procastinate
+  - text: Feel free to ask teachers and friends
+  - text: Maintain Consistency!!!..
+  - text: stay focused and priortize work
+  - text: Priortize work and do it . Don't Procastinate!
+  - text: You are INDIA's bright future!! Keep yourself as motivation
+  - text: Enjoy Academics !! Complete Academic work as challenges!!
+  - text: Know purpose of your educationactions
+
+
+actions:
+  - action_repeat
+  - utter_chitchat 
+  - action_face_recognition

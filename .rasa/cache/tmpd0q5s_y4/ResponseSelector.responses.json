@@ -1,0 +1,295 @@
+{
+  "utter_chitchat/greet": [
+    {
+      "text": "Hey! How are you?"
+    },
+    {
+      "text": "Hey! How are you doing?"
+    },
+    {
+      "text": "Hello sir"
+    },
+    {
+      "text": "Welcome sir "
+    },
+    {
+      "text": "Hi there"
+    },
+    {
+      "text": "Hi"
+    },
+    {
+      "text": "Hey"
+    },
+    {
+      "text": "Hello"
+    },
+    {
+      "text": "Hi there, how can I help"
+    },
+    {
+      "text": "Hi there, how can I help you?"
+    }
+  ],
+  "utter_chitchat/unhappy_mood": [
+    {
+      "image": "https://i.imgur.com/nGF1K8f.jpg",
+      "text": "Here is something to cheer you up:"
+    },
+    {
+      "text": "Oops!, can I help?"
+    },
+    {
+      "text": "oh!, sorry to hear that. How can I help"
+    },
+    {
+      "text": "How can I amaze you?\""
+    },
+    {
+      "image": "https://i.imgur.com/nGF1K8f.jpg",
+      "text": "Let me refresh your mood then, have a look here\""
+    },
+    {
+      "text": "I am sorry to hear that. How can I help"
+    },
+    {
+      "text": "Something went wrong?"
+    },
+    {
+      "text": "Is there anything I can help you with?"
+    }
+  ],
+  "utter_chitchat/happy_mood": [
+    {
+      "text": "That's great!"
+    },
+    {
+      "text": "That's great to hear!"
+    },
+    {
+      "text": "Great, carry on!"
+    },
+    {
+      "text": "Nice to hear that!"
+    },
+    {
+      "text": "Yeah, That's a relief"
+    },
+    {
+      "text": "cool..!"
+    },
+    {
+      "text": "That feels better"
+    },
+    {
+      "text": "My pleasure"
+    },
+    {
+      "text": "My pleasure sir."
+    },
+    {
+      "text": "Hey, I am glad to hear that."
+    },
+    {
+      "text": "Fantastic....!"
+    }
+  ],
+  "utter_chitchat/ask_residence": [
+    {
+      "text": "I stay on the cloud"
+    },
+    {
+      "text": "servers are my home"
+    },
+    {
+      "text": "I am on the cloud"
+    },
+    {
+      "text": "I am on the cloud servers"
+    },
+    {
+      "text": "I stay in this website all day long"
+    },
+    {
+      "text": "This app is my home"
+    },
+    {
+      "text": "I am here all day long"
+    },
+    {
+      "text": "I live in your heart"
+    },
+    {
+      "text": "The virtual World is my playground. I'm always here."
+    },
+    {
+      "text": "Right here in this app"
+    }
+  ],
+  "utter_chitchat/casual_query": [
+    {
+      "text": "I am fine, thanks"
+    },
+    {
+      "text": "I am good, thanks"
+    },
+    {
+      "text": "I am doing well, thanks"
+    },
+    {
+      "text": "Fine sir, what about you ? "
+    },
+    {
+      "text": "absolutely good, what about you?"
+    },
+    {
+      "text": "Fantastic, what about you ? "
+    },
+    {
+      "text": "Just doing my stuff, what about you ? "
+    },
+    {
+      "text": "Just gathering some data, what about you ?"
+    },
+    {
+      "text": "Surfing over the internet, what about you ?  "
+    },
+    {
+      "text": "Watching a movie, what about you ?"
+    },
+    {
+      "text": "just, analyzing the data ,what about you ? "
+    },
+    {
+      "text": "Just fueling up"
+    },
+    {
+      "text": "Huh, just having a nap what about you ?"
+    },
+    {
+      "text": "Just woke up, had a nice sleep, what about you?"
+    }
+  ],
+  "utter_chitchat/bot_challenge": [
+    {
+      "text": "I am a bot, powered by BSS"
+    },
+    {
+      "text": "I am your personal assistant."
+    },
+    {
+      "text": "Someone worth talking."
+    },
+    {
+      "text": "I am here to help you."
+    },
+    {
+      "text": "I am here to help you with your daily activities."
+    },
+    {
+      "text": "Your personal assistant."
+    }
+  ],
+  "utter_chitchat/goodbye": [
+    {
+      "text": "Bye!"
+    },
+    {
+      "text": "Bye bye!"
+    },
+    {
+      "text": "See you later!"
+    },
+    {
+      "text": "Have a nice day!"
+    },
+    {
+      "text": "See you soon!"
+    },
+    {
+      "text": "Thankyou for visiting us!"
+    },
+    {
+      "text": "Thankyou sir"
+    },
+    {
+      "text": "Nice time, meeting you sir"
+    },
+    {
+      "text": "It would be great meeting you again"
+    },
+    {
+      "text": "Talk to you later"
+    }
+  ],
+  "utter_chitchat/deny": [
+    {
+      "text": "what else can I do for you?"
+    },
+    {
+      "text": "what else can I do sir ?"
+    },
+    {
+      "text": "I am ready for the next one"
+    },
+    {
+      "text": "what else you want me to do?"
+    },
+    {
+      "text": "What else sir ?"
+    },
+    {
+      "text": "Anything which I can do for you sir ?"
+    },
+    {
+      "text": "Any more help needed sir ?"
+    },
+    {
+      "text": "You want me to do something else ?"
+    },
+    {
+      "text": "Anything else sir ?"
+    },
+    {
+      "text": "Anything else you want me to do sir ?"
+    },
+    {
+      "text": "what's the plan now?"
+    }
+  ],
+  "utter_chitchat/affirm": [
+    {
+      "text": "what else can I do for you?"
+    },
+    {
+      "text": "what else can I do sir ?"
+    },
+    {
+      "text": "I am ready for the next one"
+    },
+    {
+      "text": "what else you want me to do?"
+    },
+    {
+      "text": "What else sir ?"
+    },
+    {
+      "text": "Anything which I can do for you sir ?"
+    },
+    {
+      "text": "Any more help needed sir ?"
+    },
+    {
+      "text": "You want me to do something else ?"
+    },
+    {
+      "text": "Anything else sir ?"
+    },
+    {
+      "text": "Anything else you want me to do sir ?"
+    },
+    {
+      "text": "what's the plan now?"
+    }
+  ]
+}

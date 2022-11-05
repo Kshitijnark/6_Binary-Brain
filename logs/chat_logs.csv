@@ -1,0 +1,615 @@
+date,time,query,response
+2022-04-15,23:31:15,entered,entered
+2022-04-15,23:35:29,entered,entered
+2022-04-16,11:06:15,entered,entered
+2022-04-16,11:07:11,hello,Hello
+2022-04-16,11:07:43,current time?,Current Time: 11: 07
+2022-04-16,11:09:14,hello,Welcome sir
+2022-04-16,11:15:24,entered,entered
+2022-04-16,11:15:30,hello,Hi there
+2022-04-16,11:15:45,what is yesterday's date?,"Yesterday's Date: Friday, 2022-04-15 11:15:45.774739"
+2022-04-16,11:26:38,entered,entered
+2022-04-16,11:26:42,hello,Hey
+2022-04-16,11:29:08,entered,entered
+2022-04-16,11:29:51,hello,Hello sir
+2022-04-16,11:36:27,entered,entered
+2022-04-16,11:36:34,hello,Hello sir
+2022-04-16,11:37:03,detect object,person
+2022-04-16,11:37:26,what is weather in pune,Temperature: 308.18 Pressure: 1008 Humidity: 13 Description: clear sky
+2022-04-16,13:26:34,entered,entered
+2022-04-16,13:29:23,entered,entered
+2022-04-16,13:29:29,hello,Hey! How are you?
+2022-04-16,13:31:15,entered,entered
+2022-04-16,13:32:05,entered,entered
+2022-04-16,13:33:27,entered,entered
+2022-04-16,13:37:11,entered,entered
+2022-04-16,13:37:18,hello,Hey! How are you doing?
+2022-04-16,13:37:39,read it for me,Text: None
+2022-04-17,18:47:03,entered,entered
+2022-04-17,18:47:45,entered,entered
+2022-04-17,18:47:51,entered,entered
+2022-04-17,18:48:08,entered,entered
+2022-04-17,18:48:27,entered,entered
+2022-04-17,18:49:11,entered,entered
+2022-04-17,18:51:06,entered,entered
+2022-04-17,18:52:23,entered,entered
+2022-04-17,18:53:26,entered,entered
+2022-04-17,18:55:30,entered,entered
+2022-04-17,18:59:19,entered,entered
+2022-04-17,18:59:30,hello,"Hi there, how can I help"
+2022-04-17,18:59:53,what's the,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-04-17,19:00:12,what's the current time,Current Time: 19: 00
+2022-04-17,19:00:28,what ipl matches today,"Searching for today, Check Your Browser"
+2022-04-17,19:00:46,hello,Welcome sir
+2022-04-17,19:00:56,thank you for you are free,I am your personal assistant.
+2022-04-17,19:01:10, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-04-17,19:01:18,bye,See you later!
+2022-05-04,22:51:51,entered,entered
+2022-05-04,22:52:18,hello,Hey! How are you?
+2022-05-04,22:52:39, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-04,22:52:49,no,What else sir ?
+2022-05-04,22:53:17, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-04,22:53:29,ok thanks,Anything else sir ?
+2022-05-04,22:54:00,what is in front of,person
+2022-05-05,16:56:09,entered,entered
+2022-05-05,16:57:21,entered,entered
+2022-05-05,17:02:23,entered,entered
+2022-05-05,17:06:32,entered,entered
+2022-05-05,17:06:49,hello hello hello,Hello
+2022-05-05,17:07:17,tell me today's date,"Today's Date: Thursday, 2022-05-05 17:07:06.701531"
+2022-05-05,17:07:47,current updates,1. Four SpaceX Crew-3 astronauts start journey back to Earth from International Space Station - WION
+2022-05-05,17:07:54,current updates,2. Astronomers identify new ‘black widow’ system with a cannibalistic pulsar - The Indian Express
+2022-05-05,17:08:00,current updates,3. WhatsApp starts rolling out new Reactions feature update to all users - BGR India
+2022-05-05,17:08:10,current updates,4. NASA releases sonification of NGC 1275 and Messier 87 supermassive black holes - News9 LIVE
+2022-05-05,17:08:19,current updates,"5. Nothing Phone (1) launch date revealed? Carl Pei teases date, but is it real? - 91mobiles"
+2022-05-05,17:08:50, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-05,17:09:58, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-05,17:17:01,entered,entered
+2022-05-05,17:27:50,entered,entered
+2022-05-05,17:28:14,hello,Hi
+2022-05-05,17:28:53,who is the longest,"This is a list of the longest-reigning monarchs of all time, detailing the monarchs and lifelong leaders who have reigned the longest in world history, sorted by length of reign. Currently reigning monarchs are highlighted in green color."
+2022-05-05,17:29:06,who is the longest,"
+== Monarchs of sovereign states with verifiable reigns by exact date ==
+Twenty-five longest-reigning monarchs of states that were internationally recognized as sovereign for most or all of their reign."
+2022-05-05,17:29:09,who is the longest,Check your browser for the results
+2022-05-05,17:29:34, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-05,17:29:56, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-10,14:37:32,entered,entered
+2022-05-10,14:40:57,entered,entered
+2022-05-10,14:46:45,entered,entered
+2022-05-10,14:49:12,entered,entered
+2022-05-11,17:13:12,entered,entered
+2022-05-11,17:18:15,entered,entered
+2022-05-11,17:22:22,entered,entered
+2022-05-11,17:46:31,entered,entered
+2022-05-11,17:46:47,hello,Hello
+2022-05-11,17:47:03,how you doing,"just, analyzing the data ,what about you ?"
+2022-05-11,17:47:15,nothing,what's the plan now?
+2022-05-11,17:47:28,nothing,what else can I do for you?
+2022-05-11,17:48:01, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,17:48:42,what is the full form of mun,person
+2022-05-11,17:48:59, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,17:49:39,entered,entered
+2022-05-11,17:50:08,hello,Hey
+2022-05-11,20:03:08,entered,entered
+2022-05-11,20:03:46, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:04:03, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:04:20, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:05:33, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:05:50,music,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:06:03,play music,Ok..! Playing Youtube
+2022-05-11,20:06:22,youtube play this particular song this song is not,Playing this on youtube
+2022-05-11,20:06:25,youtube play this particular song this song is not,"Please check your browser, Enjoy the video!!"
+2022-05-11,20:06:43,song play mere rashke kamar,Playing mere rashke kamar on youtube
+2022-05-11,20:06:46,song play mere rashke kamar,"Please check your browser, Enjoy the video!!"
+2022-05-11,20:07:03, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:07:16,play blank space,Playing blank on youtube
+2022-05-11,20:07:19,play blank space,"Please check your browser, Enjoy the video!!"
+2022-05-11,20:07:36, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:07:53, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:08:10, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:08:23,search,"Searching for search, Check Your Browser"
+2022-05-11,20:09:04,atal bihari vajpayee,"Bihar (; Hindi pronunciation: [bɪˈɦaːr] (listen)) is a state in eastern India. It is the third-largest state by population and twelfth-largest by territory, with an area of 94,163 km2 (36,357 sq mi). Bihar borders Uttar Pradesh to its west, Nepal to the north, the northern part of West Bengal to the east, and with Jharkhand to the south."
+2022-05-11,20:09:16, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:10:04,who is in front of me permission am i,Unable to detect faces clearly
+2022-05-11,20:10:25, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:10:37,who hasn't front of you,I am here to help you with your daily activities.
+2022-05-11,20:10:59, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:11:11, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:11:29,click my picture,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:12:00, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:12:13, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:12:39,who is in front of me,person
+2022-05-11,20:13:06,object detection person,person
+2022-05-11,20:13:43,flood news,1. Tomato fever: Tamil Nadu on its toes after cases in Kerala - The Indian Express
+2022-05-11,20:13:53,flood news,2. Sony Xperia 1 IV promo videos highlight all the key features of the new flagship - GSMArena.com news - GSMArena.com
+2022-05-11,20:14:01,flood news,3. Taj Mahal land originally belonged to Jaipur royal family: BJP MP Diya Kumari - Hindustan Times
+2022-05-11,20:14:08,flood news,4. Nipah virus alert in Kerela as bat breeding season begins - CNBCTV18
+2022-05-11,20:14:15,flood news,5. Total Lunar Eclipse 2022: Everything you need to know about Blood Moon - The Statesman
+2022-05-11,20:14:32, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:14:46,what you are trying to create,"I am a bot, powered by BSS"
+2022-05-11,20:14:59, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:15:17, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:15:31, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:16:21, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:16:36,open gallery,what else can I do sir ?
+2022-05-11,20:17:18,open photos,"A photograph (also known as a photo, image, or picture) is an image created by light falling on a photosensitive surface, usually photographic film or an electronic image sensor, such as a CCD or a CMOS chip. Most photographs are now created using a smartphone/camera, which uses a lens to focus the scene's visible wavelengths of light into a reproduction of what the human eye would see. The process and practice of creating such images is called photography."
+2022-05-11,20:17:38,blind screen new,1. Tomato fever: Tamil Nadu on its toes after cases in Kerala - The Indian Express
+2022-05-11,20:17:48,blind screen new,2. Sony Xperia 1 IV promo videos highlight all the key features of the new flagship - GSMArena.com news - GSMArena.com
+2022-05-11,20:17:56,blind screen new,3. Taj Mahal land originally belonged to Jaipur royal family: BJP MP Diya Kumari - Hindustan Times
+2022-05-11,20:18:03,blind screen new,4. Nipah virus alert in Kerela as bat breeding season begins - CNBCTV18
+2022-05-11,20:18:10,blind screen new,5. Total Lunar Eclipse 2022: Everything you need to know about Blood Moon - The Statesman
+2022-05-11,20:18:35,current affairs,"Today's Date: Wednesday, 2022-05-11 20:18:25.936414"
+2022-05-11,20:18:47,cryptocurrency,Talk to you later
+2022-05-11,20:19:29,my current place is not a,"oh!, sorry to hear that. How can I help"
+2022-05-11,20:20:48,what is the distance between this and that,"And That is the debut album from Mike Skinner and Rob Harvey's collaboration, The D.O.T. It was released on Skinner's label The Beats on 22 October 2012."
+2022-05-11,20:21:01,what is the distance between this and that,"
+== Critical reception ==
+NME wrote: ""Skinner’s always known how far to push a track before it sounds like a joke, and everything on The D.O.T’s debut is pushed to that limit."
+2022-05-11,20:21:35,open camera,person
+2022-05-11,20:21:57,translate,"Today's Date: Wednesday, 2022-05-11 20:21:48.047321"
+2022-05-11,20:22:15,translate i love you to bengali language,"Searching for to bengali language, Check Your Browser"
+2022-05-11,20:22:29, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:22:44, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:23:19,mujhe robot 2.2,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:23:46,intense,Here is something to cheer you up:
+2022-05-11,20:25:04,entered,entered
+2022-05-11,20:28:05, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:28:27, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:38:38,entered,entered
+2022-05-11,20:39:28,which person is in front of me,PRAJWAL
+2022-05-11,20:39:44, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:40:03, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:40:19, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-11,20:40:35,stop,See you later!
+2022-05-11,20:40:52,bye,Bye bye!
+2022-05-12,13:48:35,entered,entered
+2022-05-12,13:53:43,entered,entered
+2022-05-12,13:54:46,entered,entered
+2022-05-12,13:56:18,entered,entered
+2022-05-12,13:57:19,entered,entered
+2022-05-12,13:59:10,entered,entered
+2022-05-12,13:59:55,entered,entered
+2022-05-12,14:00:32,entered,entered
+2022-05-12,14:01:27,entered,entered
+2022-05-12,14:03:17,entered,entered
+2022-05-12,14:06:12,entered,entered
+2022-05-12,14:07:40,entered,entered
+2022-05-12,14:13:15,entered,entered
+2022-05-12,14:34:39,entered,entered
+2022-05-12,14:36:21,entered,entered
+2022-05-12,14:36:45,hello,Hi there
+2022-05-12,15:05:37,entered,entered
+2022-05-12,15:07:05,entered,entered
+2022-05-12,15:09:26,hello,"Hi there, how can I help you?"
+2022-05-12,15:09:57, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:10:25, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:10:45, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:11:11, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:11:40, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:12:00, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:12:16, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:12:46, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:13:03, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:13:15, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:13:31, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:13:45, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:14:03, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:14:21, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:14:37, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:15:13, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,15:15:24,entered,entered
+2022-05-12,15:15:37,hello,Hello
+2022-05-12,15:16:02, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,19:55:35,entered,entered
+2022-05-12,20:07:40, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:07:54,how,"I am doing well, thanks"
+2022-05-12,20:09:14,how earth rotates,Turn Right
+2022-05-12,20:09:48,navigation,Turn Left
+2022-05-12,20:10:05, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:10:17,hello,Hi
+2022-05-12,20:10:30,how you doing,"just, analyzing the data ,what about you ?"
+2022-05-12,20:11:08,who am i,Unable to detect faces clearly
+2022-05-12,20:11:25, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:11:58,who am i,Unable to detect faces clearly
+2022-05-12,20:12:15, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:12:45,who am i,Unable to detect faces clearly
+2022-05-12,20:13:02, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:13:15, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:13:33, ,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,20:30:41,entered,entered
+2022-05-12,20:34:06,entered,entered
+2022-05-12,20:35:01,entered,entered
+2022-05-12,20:58:43,entered,entered
+2022-05-12,21:03:14,entered,entered
+2022-05-12,21:11:35,entered,entered
+2022-05-12,22:26:07,entered,entered
+2022-05-12,22:26:21,hello,Hello
+2022-05-12,22:26:53,what is love,person
+2022-05-12,22:27:06,love,It would be great meeting you again
+2022-05-12,22:27:18,ok,what's the plan now?
+2022-05-12,22:27:31,nothing,Anything else you want me to do sir ?
+2022-05-12,22:27:43,no,what's the plan now?
+2022-05-12,22:27:53,exit,Bye bye!
+2022-05-12,22:40:22,entered,entered
+2022-05-12,22:41:34,entered,entered
+2022-05-12,22:41:40,entered,entered
+2022-05-12,22:42:07,you belong to,"Surfing over the internet, what about you ?"
+2022-05-12,22:42:58,entered,entered
+2022-05-12,22:43:27,entered,entered
+2022-05-12,22:43:56,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:44:08,hello,Hey! How are you?
+2022-05-12,22:44:26,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:44:42,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:44:59,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:45:59,entered,entered
+2022-05-12,22:46:36,hello,Hey! How are you?
+2022-05-12,22:46:53,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:47:09,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:47:30,entered,entered
+2022-05-12,22:48:28,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:48:45,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:50:23,entered,entered
+2022-05-12,22:51:00,hello,Hello
+2022-05-12,22:51:17,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:51:34,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:51:51,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:51:55,entered,entered
+2022-05-12,22:52:53,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,22:58:13,entered,entered
+2022-05-12,22:58:47,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,23:02:29,entered,entered
+2022-05-12,23:02:55,entered,entered
+2022-05-12,23:03:32,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,23:03:48,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,23:04:05,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,23:04:11,entered,entered
+2022-05-12,23:04:43,,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-05-12,23:05:27,entered,entered
+2022-05-12,23:06:20,hello,"Hi there, how can I help you?"
+2022-05-12,23:12:25,entered,entered
+2022-05-12,23:13:00,hello,Hi there
+2022-05-13,22:53:15,entered,entered
+2022-05-13,22:54:11,entered,entered
+2022-05-13,22:54:48,hello,Hey! How are you?
+2022-05-13,22:54:59,i am fine,what else you want me to do?
+2022-05-13,22:55:16,play naruto songs,Playing naruto songs on youtube
+2022-05-13,22:55:21,play naruto songs,"Please check your browser, Enjoy the video!!"
+2022-05-13,22:55:32,thank you,What else sir ?
+2022-05-13,22:57:26,who am i,PARIKSHIT
+2022-05-13,23:48:19,entered,entered
+2022-05-14,00:00:28,entered,entered
+2022-05-14,00:01:21,repeat that,Good
+2022-05-14,00:01:37,hello,Hi there
+2022-05-14,00:06:20,entered,entered
+2022-05-14,10:26:19,entered,entered
+2022-05-14,10:27:43,what is in front of you,"Fantastic, what about you ?"
+2022-05-14,10:30:23,entered,entered
+2022-05-14,10:31:05,entered,entered
+2022-05-14,10:38:05,entered,entered
+2022-05-14,10:40:13,what is in front of me,cell phone
+2022-06-06,22:08:47,entered,entered
+2022-06-06,22:22:36,entered,entered
+2022-06-06,22:27:42,hello,Hey! How are you doing?
+2022-07-08,22:37:19,entered,entered
+2022-07-08,22:39:04,hello,"Hi there, how can I help you?"
+2022-07-12,10:32:42,entered,entered
+2022-07-12,10:35:05,entered,entered
+2022-07-12,10:35:49,entered,entered
+2022-07-12,10:38:29,entered,entered
+2022-07-12,10:39:16,hello mission ki website,Hey
+2022-07-12,10:58:00,entered,entered
+2022-07-12,10:59:37,read what is in front of me,person
+2022-07-12,11:00:24,object detection,person
+2022-07-12,11:08:26,entered,entered
+2022-07-12,11:09:21,read this,Text: None
+2022-07-12,11:09:40,nahin bol rahi ho text,Text: None
+2022-07-12,11:09:55,repeat function,Text:
+2022-07-12,11:10:08,repeat repeat repeat,Text:
+2022-07-12,11:10:27,stop it read this,Text: None
+2022-07-12,11:10:47,read this,Text: None
+2022-07-12,11:11:01,side makeup,Ok..! I'll Tell you a joke....
+2022-07-12,11:11:06,side makeup,"Old C programmers don't die, they're just cast into void."
+2022-07-12,11:11:30,ruk ruk,"Rük (also, Ryuk) is a village in the Quba Rayon of Azerbaijan.  The village forms part of the municipality of Söhüb."
+2022-07-12,11:11:32,ruk ruk,Check your browser for the results
+2022-07-12,11:11:50,pan card,"Sorry, I didn't get that. Can you please rephrase it?"
+2022-07-12,11:12:08,read this,Text: None
+2022-07-12,11:12:29,read this,Text: None
+2022-07-12,11:12:46,are read this,Text: None
+2022-07-15,18:27:19,entered,entered
+2022-07-15,18:28:44,dikha do,person
+2022-07-15,19:10:31,entered,entered
+2022-07-15,19:17:16,hello,"Hi there, how can I help"
+2022-07-15,19:21:05,entered,entered
+2022-07-15,19:24:33,hello,Hello sir
+2022-07-15,19:26:23,entered,entered
+2022-07-15,19:27:02,hello,"Hi there, how can I help"
+2022-07-15,19:35:39,entered,entered
+2022-07-15,19:36:17,read this,Text: None
+2022-07-15,19:38:22,entered,entered
+2022-07-15,19:45:27,entered,entered
+2022-07-15,19:50:15,entered,entered
+2022-07-15,20:15:04,entered,entered
+2022-07-15,20:26:04,what is in front of me,cell phone
+2022-07-15,20:27:00,what is in front of me,cell phone
+2022-07-15,20:32:27,entered,entered
+2022-07-15,20:33:09,what is the weather of mumbai,Temperature: 301.14 Pressure: 999 Humidity: 89 Description: haze
+2022-07-15,20:33:31,nisha,Anything else sir ?
+2022-07-15,20:33:46,disha,Anything
+2022-07-15,20:34:09,disha,Anything
+2022-07-15,20:34:32,what is the weather of mumbai,Temperature: 301.14 Pressure: 999 Humidity: 89 Description: haze
+2022-07-15,20:36:21,tell me the latest news,1. Sushmita Sen reacts to Lalit Modi's declaration of love: 'Not married…no rings' - The Indian Express
+2022-07-15,20:36:28,tell me the latest news,2. Watch: SpaceX launches cargo mission to the ISS | SpaceX Dragon Cargo - DNAIndiaNews
+2022-07-15,20:36:34,tell me the latest news,3. Astronomers detect mysterious fast radio burst with a heartbeat pattern - The Hans India
+2022-07-15,20:36:45,tell me the latest news,"4. Closing Bell: Nifty ends above 16,000, Sensex gains 344 pts amid volatility; autos shine - Moneycontrol"
+2022-07-15,20:36:53,tell me the latest news,5. Koffee With Karan 7: Saif Ali Khan Likes Daughter Sara's Films As Long As They Aren't... - NDTV Movies
+2022-07-15,20:51:49,object detection navigation weather forecasting to get the new brown,Temperature: 301.14 Pressure: 1000 Humidity: 89 Description: haze
+2022-07-19,14:32:13,entered,entered
+2022-07-19,14:34:13,entered,entered
+2022-07-19,14:37:02,entered,entered
+2022-07-19,14:54:04,entered,entered
+2022-07-28,11:18:21,entered,entered
+2022-07-28,11:25:44,entered,entered
+2022-07-28,11:29:58,entered,entered
+2022-07-28,11:30:41,hello,Hey! How are you?
+2022-07-28,11:38:13,entered,entered
+2022-07-28,11:38:59,hello,Hello
+2022-07-28,11:39:07,hello,Hi there
+2022-07-28,11:39:15,hello,Welcome sir
+2022-07-28,11:40:26,entered,entered
+2022-07-28,11:46:46,entered,entered
+2022-07-28,11:52:14,hello,Hey! How are you doing?
+2022-07-28,11:53:57,hello hello hello hello hello hello,Hey
+2022-07-28,11:54:08,hello hello hello hello hello hello hello hello hello hello hello hello,Hi there
+2022-07-28,11:54:18,hello hello hello hello hello hello hello,Hey! How are you doing?
+2022-07-28,11:54:26,hello hello hello hello hello hello,Hello
+2022-07-28,11:54:44,hello hello hello hello hello hello,Hey
+2022-07-28,11:54:54,hello hello hello hello hello,Hey! How are you doing?
+2022-07-28,11:55:02,hello,Welcome sir
+2022-07-28,12:00:48,entered,entered
+2022-07-28,12:04:00,hello,"Hi there, how can I help"
+2022-07-28,12:04:43,hello,Hello sir
+2022-07-28,12:24:07,entered,entered
+2022-07-28,12:27:06,entered,entered
+2022-07-28,12:31:41,entered,entered
+2022-07-28,12:42:18,entered,entered
+2022-07-28,14:32:40,entered,entered
+2022-07-28,14:34:41,entered,entered
+2022-07-28,15:00:01,entered,entered
+2022-07-28,15:02:33,entered,entered
+2022-07-28,15:03:34,hello,Prajwal
+2022-07-28,15:03:35,hello,Hey
+2022-07-28,15:05:12,hello,Prajwal
+2022-07-28,15:05:14,hello,Hi there
+2022-07-28,15:05:37,entered,entered
+2022-07-28,15:14:42,entered,entered
+2022-07-28,15:16:05,entered,entered
+2022-07-28,15:16:33,hello,Hello PRAJWAL
+2022-07-28,15:16:57,i am not my show,"How can I amaze you?"""
+2022-07-28,15:18:42,entered,entered
+2022-07-28,15:19:15,hello,Hey! How are you doing?
+2022-07-28,15:19:31,mutiny,what else can I do PRAJWAL ?
+2022-07-28,17:54:40,entered,entered
+2022-07-28,18:02:39,entered,entered
+2022-07-28,18:05:44,entered,entered
+2022-07-28,18:09:04,entered,entered
+2022-07-28,18:13:04,entered,entered
+2022-07-28,18:16:01,entered,entered
+2022-07-28,18:22:27,entered,entered
+2022-07-28,18:29:08,entered,entered
+2022-07-28,18:32:17,entered,entered
+2022-07-28,18:34:51,entered,entered
+2022-07-28,18:36:21,entered,entered
+2022-07-28,19:02:32,entered,entered
+2022-07-28,19:06:50,entered,entered
+2022-07-28,19:13:13,entered,entered
+2022-07-28,19:16:12,entered,entered
+2022-07-28,19:17:23,entered,entered
+2022-07-28,19:19:49,entered,entered
+2022-07-28,19:21:20,entered,entered
+2022-07-28,19:22:57,entered,entered
+2022-07-28,19:26:50,entered,entered
+2022-07-28,19:30:12,entered,entered
+2022-07-28,19:31:56,entered,entered
+2022-07-28,19:33:15,entered,entered
+2022-07-28,19:35:46,entered,entered
+2022-07-28,19:37:03,entered,entered
+2022-07-28,19:38:05,entered,entered
+2022-07-28,19:40:11,entered,entered
+2022-07-28,19:41:45,entered,entered
+2022-07-28,19:45:16,entered,entered
+2022-07-28,19:49:42,entered,entered
+2022-10-24,07:27:48,entered,entered
+2022-10-24,07:27:57,entered,entered
+2022-10-24,07:30:02,entered,entered
+2022-10-24,07:32:47,how are you,"I am doing well, thanks"
+2022-10-24,07:36:03,entered,entered
+2022-10-24,07:37:07,how are you,"just, analyzing the data ,what about you ?"
+2022-10-24,07:37:24,i am fine you,"Just gathering some data, what about you ?"
+2022-10-24,07:37:53,what is your name,Someone worth talking.
+2022-10-24,07:41:26,entered,entered
+2022-10-24,07:41:58,i am cheated,That's great!
+2022-10-24,07:42:28,how are you,"Fantastic, what about you ?"
+2022-10-24,07:43:40,i am so angry,"Let me refresh your mood then, have a look here"""
+2022-10-24,07:43:42,i am so angry,Prajwal
+2022-10-24,07:43:47,i am so angry,https://i.imgur.com/nGF1K8f.jpg
+2022-10-24,07:43:59,i am tense,Here is something to cheer you up:
+2022-10-24,07:44:01,i am tense,Prajwal
+2022-10-24,07:44:06,i am tense,https://i.imgur.com/nGF1K8f.jpg
+2022-10-24,07:44:23,robot,what else can I do for you?
+2022-10-24,07:44:33,effect,"Great, carry on!"
+2022-10-24,07:44:41,new,You want me to do something else ?
+2022-10-24,07:44:51,yes,Anything which I can do for you unknown ?
+2022-10-24,07:45:24,how are you,"I am doing well, thanks"
+2022-10-24,07:45:34,what is going on,"absolutely good, what about you?"
+2022-10-24,07:45:58,what is up,"I am fine, thanks"
+2022-10-24,07:46:06,where do you live,I stay on the cloud
+2022-10-24,07:46:22,what is your purpose,I am here to help you.
+2022-10-24,07:46:45,i am so tired,"Let me refresh your mood then, have a look here"""
+2022-10-24,07:46:47,i am so tired,Prajwal
+2022-10-24,07:46:53,i am so tired,https://i.imgur.com/nGF1K8f.jpg
+2022-10-24,07:47:14,i am teaser,Fantastic....!
+2022-10-24,07:47:57,bye,Bye!
+2022-10-24,07:48:05,have a nice day,Bye!
+2022-10-24,07:48:15,good morning,"Hi there, how can I help"
+2022-10-24,07:48:28,please repeat that,Hi
+2022-10-24,09:27:49,entered,entered
+2022-10-24,09:38:47,entered,entered
+2022-10-24,09:42:07,entered,entered
+2022-10-24,09:42:12,entered,entered
+2022-10-24,09:52:53,entered,entered
+2022-10-24,09:54:05,entered,entered
+2022-10-24,10:09:26,entered,entered
+2022-10-24,21:23:06,entered,entered
+2022-10-24,21:23:30,entered,entered
+2022-10-24,21:25:20,entered,entered
+2022-10-24,21:25:52,who are you what is your purpose,"I am a bot, powered by BSS"
+2022-10-24,21:26:18,i am so sad,"Oops!, can I help?"
+2022-10-24,21:26:49,bye,It would be great meeting you again
+2022-10-24,21:37:01,entered,entered
+2022-10-24,21:41:50,entered,entered
+2022-10-24,21:42:49,entered,entered
+2022-10-25,11:18:58,entered,entered
+2022-10-25,11:19:59,what is your name,I am here to help you with your daily activities.
+2022-10-25,11:20:09,what is your purpose,"I am a bot, powered by BSS"
+2022-10-25,11:21:23,what is your purpose,I am here to help you with your daily activities.
+2022-10-25,11:21:31,i am so tensed,"Oops!, can I help?"
+2022-10-25,11:21:41,yes i am so sad,"Let me refresh your mood then, have a look here"""
+2022-10-25,11:21:43,yes i am so sad,Kshitij
+2022-10-25,11:21:48,yes i am so sad,https://i.imgur.com/nGF1K8f.jpg
+2022-10-25,11:22:00,bye,See you soon!
+2022-10-25,14:28:54,entered,entered
+2022-10-25,14:29:55,what is your purpose,I am your personal assistant.
+2022-10-25,14:30:06,i am so sad,"Let me refresh your mood then, have a look here"""
+2022-10-25,14:30:07,i am so sad,Kshitij
+2022-10-25,14:30:13,i am so sad,https://i.imgur.com/nGF1K8f.jpg
+2022-10-25,14:30:24,i am feeling happy now,"Oops!, can I help?"
+2022-10-25,14:30:36,i am so tensed,Here is something to cheer you up:
+2022-10-25,14:30:37,i am so tensed,Kshitij
+2022-10-25,14:30:43,i am so tensed,https://i.imgur.com/nGF1K8f.jpg
+2022-10-25,14:31:10,entered,entered
+2022-10-25,14:04:28,entered,entered
+2022-10-25,14:05:51,entered,entered
+2022-10-25,14:13:14,what is your purpose,I am here to help you with your daily activities.
+2022-10-25,14:13:27,i am so sad,Is there anything I can help you with?
+2022-10-25,14:13:48,ho pardesh,"How can I amaze you?"""
+2022-10-25,14:14:09,test,Thankyou for visiting us!
+2022-10-25,14:14:24,different,I am sorry to hear that. How can I help
+2022-10-26,07:02:53,entered,entered
+2022-10-26,07:04:22,what is my purpose,I am here to help you.
+2022-10-26,07:04:32,i am so sad,"oh!, sorry to hear that. How can I help"
+2022-10-26,07:04:41,i am so tense,Something went wrong?
+2022-11-01,11:07:04,entered,entered
+2022-11-01,11:07:44,what is stress,Stress is your body's reaction to a challenge or demand. In short bursts
+2022-11-01,11:08:58,i am unable to sleep,"If you are facing it from 2-3 week.
+ You have to visit Doctor!!!"
+2022-11-01,11:09:19,please play,Enjoy Academics !! Complete Academic work as challenges!!
+2022-11-01,11:09:51,have it all,"Try to Explore new things and skills
+Play Games"
+2022-11-01,11:09:59,karna,what else can I do unknown ?
+2022-11-01,11:10:12,mark on the assignment,Make TO DO list and go through it Strictly
+2022-11-01,11:10:23,mobile addiction,You just stop multitasking
+2022-11-01,11:10:48,i am a boy,I am your personal assistant.
+2022-11-01,11:11:01,show,"just, analyzing the data ,what about you ?"
+2022-11-01,11:11:40,candy crush,Try to figure out patiently.
+2022-11-01,11:11:53,rutuja,"If you want to solve a problem, you need to comprehend it first."
+2022-11-01,11:12:19,1100,Anything else you want me to do unknown ?
+2022-11-01,11:12:37,what a feeling nervous,Sleep  hygiene  must  be  maintained. Stimulants  must  be  avoided  before  sleep.
+2022-11-01,11:12:56,i feel very sleepy,"Oops!, can I help?"
+2022-11-01,11:13:04,yes,what else you want me to do?
+2022-11-01,11:49:54,entered,entered
+2022-11-01,11:50:38,hai,what else you want me to do?
+2022-11-01,11:52:07,i am unable to sleep,Drink enough water to relax your digestive System.
+2022-11-01,11:55:10,entered,entered
+2022-11-01,11:55:41,i am so tensed,Something went wrong?
+2022-11-01,11:55:54,i am unable to sleep,Drink enough water to relax your digestive System.
+2022-11-01,11:57:19,entered,entered
+2022-11-01,12:01:17,entered,entered
+2022-11-01,12:03:16,entered,entered
+2022-11-01,21:06:16,entered,entered
+2022-11-01,21:07:29,entered,entered
+2022-11-01,21:09:50,i am unable to sleep,Drink enough water to relax your digestive System.
+2022-11-01,21:09:59,i am sorry,Something went wrong?
+2022-11-01,21:10:15,what is stress,Stress is the  physiological and behavioural response by an individual whenthey perceive a lack of equilibrium between the demands placed upon them and their ability to meet those demands
+2022-11-01,21:11:18,i am unable to sleep,Drink enough water to relax your digestive System.
+2022-11-01,21:11:29,i am so nervous,That's great!
+2022-11-01,21:12:27,are,I am ready for the next one
+2022-11-01,21:21:21,entered,entered
+2022-11-01,21:23:14,entered,entered
+2022-11-01,21:25:28,entered,entered
+2022-11-01,21:27:17,entered,entered
+2022-11-01,21:29:34,phone,"Rethink how you spend your spare time , you may get solution."
+2022-11-01,21:30:32,hai,You want me to do something else ?
+2022-11-01,21:31:09,current,"Nice time, meeting you unknown"
+2022-11-01,21:34:23,entered,entered
+2022-11-01,21:35:13,hello conference,Hey! How are you doing?
+2022-11-01,21:35:27,i can't focus,"Empathy- humor, drug treatment and clinical monitoring can be helpful for aggressive persons suffering from Psychiatric disorder."
+2022-11-01,21:40:13,heart broken,Try to figure out patiently.
+2022-11-01,21:40:26,there complication,Try to figure out patiently.
+2022-11-01,21:40:35,are yaar,I am here to help you.
+2022-11-01,21:40:59,dehradun,"How can I amaze you?"""
+2022-11-01,21:41:08,no,what's the plan now?
+2022-11-01,21:41:17,movie now,What else unknown ?
+2022-11-01,21:41:29,jassi gill,"Follow Proper Routine.
+ Make proper Timetable"
+2022-11-01,21:41:40,i have no friends,Explore Social media.
+2022-11-01,21:43:11,entered,entered
+2022-11-01,21:43:54,i have it my call my friend,Simply walk away if feeling uncomfortable.
+2022-11-01,21:44:12,i can't,"Empathy- humor, drug treatment and clinical monitoring can be helpful for aggressive persons suffering from Psychiatric disorder."
+2022-11-01,21:44:27,i am suffering from mobile addiction,"Follow Proper Routine.
+ Make proper Timetable"
+2022-11-01,21:47:22,entered,entered
+2022-11-01,21:47:47,entered,entered
+2022-11-01,21:48:41,i am unable to sleep,"If you are facing it from 2-3 week.
+ You have to visit Doctor!!!"
+2022-11-01,21:49:20,sadhguru,I am sorry to hear that. How can I help
+2022-11-01,21:49:47,entered,entered
+2022-11-01,21:50:14,entered,entered
+2022-11-01,21:51:03,entered,entered
+2022-11-01,21:51:37,i have to let,"Rethink how you spend your spare time , you may get solution."
+2022-11-01,21:51:51,help,"Hi there, how can I help"
+2022-11-01,21:52:03,i have no company,"Talk to parents, You will feel energy."
+2022-11-01,21:52:27,i am addicted with social media,Pair The Pomodoro Technique With Juicy Rewards
+2022-11-01,21:52:44,i want top,Something you can say or text to your parent(s) that lets them know you need out of a situation.
+2022-11-01,21:53:00,my heart is broken,"If you want to solve a problem, you need to comprehend it first."
+2022-11-01,21:53:17,meaning,Stress is a feeling of emotional or physical tension.
+2022-11-01,21:53:31,there are a lot of assignments,Dont Procastinate
+2022-11-01,21:53:43,it is very bored,Something went wrong?
+2022-11-01,21:53:57,there is a lot of study,Know purpose of your education
+2022-11-03,15:35:56,entered,entered
+2022-11-03,16:01:19,entered,entered
+2022-11-03,21:25:00,entered,entered
+2022-11-03,21:26:21,entered,entered
+2022-11-03,21:28:19,entered,entered
+2022-11-03,21:29:00,i am unable to sleep,Drink enough water to relax your digestive System.
+2022-11-03,22:50:37,entered,entered
+2022-11-03,22:51:32,good evening sir,Hi
+2022-11-03,22:51:53,my friend ashok,Have friends with similar values and beliefs.  It is easier to say 'no' if someone else is also saying it.  Saying “no” together makes it easier for the both of you.
+2022-11-03,22:59:03,entered,entered
+2022-11-03,23:02:29,entered,entered
+2022-11-03,23:40:53,entered,entered
+2022-11-03,23:42:20,hai,cool..!
+2022-11-03,23:42:33,how are you,"I am doing well, thanks"
+2022-11-03,23:44:14,entered,entered
+2022-11-03,23:44:57,what is stress,Stress is a condition of mental pressure for particular individual facing problems from environmental and social well-being which leads to so many diseases
+2022-11-04,11:50:56,entered,entered
+2022-11-04,11:53:24,how are you,"Watching a movie, what about you ?"
+2022-11-04,11:53:52,i am feeling nervous,Sleep  hygiene  must  be  maintained. Stimulants  must  be  avoided  before  sleep.
+2022-11-04,11:54:15,what is stress,Stress is a condition of mental pressure for particular individual facing problems from environmental and social well-being which leads to so many diseases
+2022-11-04,11:55:48,entered,entered
+2022-11-04,11:56:17,entered,entered
+2022-11-04,11:57:04,what is stress,"Stress constitutes a complex process that is activated by a physical or mental threat to the individuals’ homeostasis, comprising a set of diverse psychological, physiological and behavioral responses"
+2022-11-04,11:57:30,i cannot sleep,"Listen first !!
+1. Don't Use mobile before sleep
+2. Just Relax and listen songs or you can meditate for some time
+3. Try to maintain your sleeping"
+2022-11-04,23:11:40,entered,entered
+2022-11-04,23:33:53,entered,entered
+2022-11-04,23:35:24,i am unable to sleep,"Be Patient, Close your Eyes."
+2022-11-04,23:35:42,i have no friends,"Search on Internet
+There are lot of things to learn
+But Worries I am here for you!!"
+2022-11-04,23:35:58,my heart is broken,"look for common ground, and compromise that you are both happy with"
+2022-11-04,23:39:56,entered,entered
+2022-11-04,23:45:19,entered,entered
+2022-11-05,10:16:26,entered,entered

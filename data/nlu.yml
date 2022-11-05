@@ -1,0 +1,399 @@
+version: "2.0"
+nlu:
+- intent: chitchat/greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hi harry
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+- intent: chitchat/goodbye
+  examples: |
+    - cu
+    - good bye
+    - cee you later
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - have a great time
+    - that was fun
+    - quit
+    - stop
+    - exit
+- intent: chitchat/happy_mood
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am fine
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+- intent: chitchat/unhappy_mood
+  examples: |
+    - my day was horrible
+    - I don't feel very well
+    - I am disappointed
+    - I'm so sad
+    - feeling unhappy
+    - worst day of my life
+    - got panic
+    - feeling bored
+    - stressed
+    - I am so angry
+    - I am so depressed
+    - I am so tensed
+    - not good
+- intent: chitchat/bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+    - what is your name?
+    - what is your purpose?
+    - How can you help me?
+    - What are you here for?
+- intent: chitchat/ask_residence
+  examples: |
+    - where do you live?
+    - where do you live in?
+    - whats your residence?
+    - your city?
+    - your town?
+    - where is your house?
+    - where is your home?
+    - wheres your house?
+    - wheres your home?
+    - where is your residence?
+    - whats your home town?
+    - where do you stay?
+    - where are you from?
+    - where are we staying?
+- intent: chitchat/casual_query
+  examples: |
+    - how are you ?
+    - how is it going ?
+    - what is up ?
+    - is everything all right?
+    - what is going on ?
+    - you fine?
+    - you all right?
+    - how is it going on ?
+    - what are you doing ?
+    - wattcha doing?
+    - what are you up to?
+    - how you doing?
+    - how are you doing?
+    - How are you feeling now?
+- intent: repeat
+  examples: |
+    - repeat
+    - repeat that please
+    - say that again please
+    - repeat that again
+    - what did you say?
+    - did you say something?
+    - couldn't understand that.
+    - i don't understand.
+    - what?
+    - what was that?
+    - please repeat that
+- intent: tell_details
+  examples: |
+    - I am Rajesh
+    - I am Shalini
+    - I am kshitij
+    - my name is om
+    - My name is [Rasa](name)
+    - I am [Prajwal](name)
+    - myself [Aishu](name)
+    - [Sarthak](name) is my name
+    - [Sarthak](name) here
+    - [abhi](name) here.
+    - [abhi](name) is my name
+- intent: chitchat/affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - that's right
+    - sure
+    - fine
+    - ok
+    - okay
+    - alright
+    - absolutely
+- intent: chitchat/deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+    - not at all
+    - not right now
+    - nope
+    - not so sure
+    - impossible
+    
+- intent: tell_joke
+  examples: |
+    - tell me a joke
+    - tell me a funny joke
+    - do you have a joke for me
+    - amuse me
+    - make me laugh
+    - i am feeling sad
+    - tell a joke
+    - entertain me
+    - do you have something funny?
+    - can you amaze me?
+    - can you do somthing funny?
+    - lets have some fun
+    - what about having a joke?
+- intent: object_detection
+  examples: |
+    - show me what is ahead
+    - what is infront of me
+    - what do i see
+    - what is in front of me
+    - narrate the world to me
+    - watch what is ahead
+    - obeserve the world for me
+    - show me what is in front of me
+    - examine the area around
+    - justify the outside state
+    - find out what is in front of me
+    - inform me about the outside
+    - look outside for me
+    - look outside
+    - look around
+    - look at the outside
+    - start the camera
+    - detect objects for mr
+    - predict what is infront of me
+    - predict what is ahead
+    - tell me what is ahead
+    - tell me what is infront of me
+    - would you mind telling me what is infront of me
+    - it would be my pleasure to know what is around me
+    - narrate the outside world me
+    - please tell me what is around me
+    - please narrate the outside world to me
+- intent: face_recognition
+  examples: |
+    - who is before me
+    - who is it?
+    - who is behind me?
+    - which person is this?
+    - who is before me?
+    - whom do I see?
+    - whom do you see?
+    - whom do you see in front of me?
+- intent: stress_agree
+  examples: |
+    - yes!I am in stress
+    - I have a stress
+    - I am in a stress
+    - I am stressed due to work
+    - Stressed
+    - I am not fine
+- intent: stress_disagree
+  examples: |
+    - No!I am not in stress
+    - I do not have a stress
+    - I am not in a stress
+    - I am not stressed
+    - I am fine
+    - There is no problem.
+- intent: stress_meaning
+  examples: |
+    - What is stress?
+    - What actually stress is?
+    - Can you tell me about stress
+    - stress defination
+    - what is stress definition
+    - stress meaning
+    - what is the meaning of stress?
+    - How can we define stress?
+    - what really stress is?
+- intent: stress_relaxation_method
+  examples: |
+    - Can you tell me how to reduce the stress?
+    - Stress relaxation ideas
+    - How do I make myself stress free?
+    - How to reduce the stress?
+    - How do I relax the stress?
+    - How do I reduce my stress level
+    - Can you suggest some solution overr it?
+    - What are different techniques to reduce the stress?
+    - What are some techniques to reduce the stress?
+- intent: stress_symptoms
+  examples: |
+    - What are the stress symptoms?
+    - Stress symptoms
+    - Can you tell me some of the stress symptoms?
+    - Which are the symptoms for stress?
+    - Most common symptoms for stress
+- intent: users_problem
+  examples: |
+    - I am unable to sleep
+    - I feel anxiety regularly
+    - I am unable to concentrate on my work
+    - I am sometimes feeling restless
+    - Sometimes I bouts of anger
+    - I feel irritable
+    - I feel academic tension
+    - I am having less sleep
+    - I am feeeling tensed while doing little work also
+    - I am restlessness sometimes
+    - Feeling shortemper
+    - Sometimes I am feeling accelerated speech
+- intent: underdog
+  examples: |
+    - no value
+    - low self esteem
+    - I feel low confidence
+    - I am feeling inferior
+    - Feeling low in society
+    - Gaining less priority
+    - Gaining less important in society
+    - Feeling lesser than others
+    - Others are not treating me as equal
+- intent: Aggression
+  examples: |
+    - I feel angry
+    - I can't tolerate it
+    - I can't focus
+    - why does it always happen with me ?
+    - I am tired of this
+    - I am angry
+- intent: Loneliness
+  examples: |
+    - I am feeling lonely
+    - I am alone
+    - no one cares me
+    - I have no company
+    - I have no friends
+    - I want to socialize
+    - I have no one to share
+    - I want to share something
+    - feeling alone
+    - feeling depressed
+- intent: relationship
+  examples: |
+    - heart broken
+    - complications
+    - Arguments with partner
+    - No trust
+    - he/she has Rude behaviour
+    - less communication
+    - he/she shows gratitude
+    - Jeolousy in relationship
+    - he/she gives no support
+    - I am broken
+- intent: peer_pressure
+  examples: |
+    - I am pressurised
+    - I cant choose my career?
+    - my friends are forcing
+    - society pressure
+    - I want only top rank
+    - I will not complete my dream.
+- intent: Procastination
+  examples: |
+    - I have late mark on assignment
+    - cant manage time
+    - putting off projects
+    - I am addicted with social media
+    - mobile addiction
+    - I am procastinated
+    - I cant do schduled work.
+    - no daily routine.
+- intent: sleep
+  examples: |
+    - I am unable to sleep
+    - Not getting proper sleep
+    - Feeling sleeplessness
+    - It is hard to fall asleep
+    - Not be able to get back to sleep
+    - Feeling tired when I wake up
+    - Not able to sleep properly
+- intent: Exam_stress
+  examples: |
+    - Feeling nervous
+    - Not able to recall the answers
+    - Sweating a lot
+    - Not confident on the answers
+    - Feeling anxious
+    - I am feeling anxious
+    - Feeling less confident
+- intent: Academic
+  examples: |
+    - there are lot of assignments
+    - I have lot of project work
+    - there are too many lectures.
+    - it is bore lecture
+    - I want a break from lectures
+    - I have no time to play
+    - there is lot of study
+    - burden of syllabus
+    - huge syllabus
+    - labworks orals
+- intent: stress_effects
+  examples: |
+    - What are the stress effects?
+    - Stress effects
+    - Can you tell me some of effects of stress?
+    - Which are the effects of stress?
+    - Most common effects for stress
+- synonym: show
+  examples: |
+    - display
+    - guide
+    - watch
+    - observe
+    - look
+    - see
+    - glare
+    - stare
+    - glimpse
+- synonym: front
+  examples: |
+    - infront
+    - back
+    - rear
+    - ahead
+    - behind
+    - beneath
+    - below
+    - left
+    - right
+    - before
+    - after

@@ -1,0 +1,91 @@
+version: "2.0"
+
+rules:
+- rule: respond to chitchat
+  steps:
+  - intent: chitchat
+  - action: utter_chitchat
+
+- rule: respond to goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: respond to greet
+  steps:
+  - intent: greet
+  - action: utter_greet
+- rule: action go for face recognition when asked
+  steps:
+  - intent: face_recognition
+  - action: action_face_recognition
+
+- rule: action repeat the last message when asked
+  steps:
+  - intent: repeat
+  - action: action_repeat
+
+- rule: respond to stress meaning
+  steps:
+  - intent: stress_meaning
+  - action: utter_stress_meaning
+  
+- rule: respond to stress relaxation method
+  steps:
+  - intent: stress_relaxation_method
+  - action: utter_stress_relaxation_method
+
+- rule: respond to stress symptoms
+  steps:
+  - intent: stress_symptoms
+  - action: utter_stress_symptoms
+
+- rule: respond to underdog problem
+  steps:
+  - intent: underdog
+  - action: utter_underdog
+
+- rule: respond to aggression problem
+  steps:
+  - intent: Aggression
+  - action: utter_Aggression
+
+- rule: respond to loneliness problem
+  steps:
+  - intent: Loneliness
+  - action: utter_Loneliness
+
+- rule: respond to relationship issue
+  steps:
+  - intent: relationship
+  - action: utter_relationship
+
+- rule: respond to peer pressure
+  steps:
+  - intent: peer_pressure
+  - action: utter_peer_pressure
+
+- rule: respond to procastination
+  steps:
+  - intent: Procastination
+  - action: utter_Procastination
+
+- rule: respond to sleep issue
+  steps:
+  - intent: sleep
+  - action: utter_sleep
+
+- rule: respond to exam stress
+  steps:
+  - intent: Exam_stress
+  - action:  utter_Exam_stress
+
+- rule: respond to academic stress
+  steps:
+  - intent: Academic
+  - action: utter_Academic
+  
+- rule: respond to stress effects
+  steps:
+  - intent: stress_effects
+  - action: utter_stress_effects
