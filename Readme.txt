@@ -11,14 +11,13 @@ Note that your setup has been done properly and I expect there wont be any error
 
 ----------------NEW in version 2.0------------------------
 
-1. Face Recogniton using MTCNN(better than all those shown earlier)
-2. Repeat Functionality
-3. Increased Speed
-4. Fixed many bugs
-5. Named it Disha(changable)
-6. Added the wake-up word (disha) need to call it when she is at standby (she goes in standby every 10 secs of silence)
-7. Removed the SerpAPI thing (used for auto_correct but it was taking a lot of time)
-8. Make sure you use different API ids everywhere
+1. Repeat Functionality
+2. Increased Speed
+3. Fixed many bugs
+4. Named it Harry(changable)
+5. Added the wake-up word (disha) need to call it when she is at standby (she goes in standby every 10 secs of silence)
+6. Removed the SerpAPI thing (used for auto_correct but it was taking a lot of time)
+7. Make sure you use different API ids everywhere
 
 
 9. - 
