@@ -1,0 +1,1 @@
+cd D:\SIP_Team_C\start1 && echo bye && exit()

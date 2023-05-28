@@ -1,0 +1,1 @@
+cd D:\test_project\test_stress && conda activate C:\Users\kshit\anaconda3\envs\bot123 && rasa run actions

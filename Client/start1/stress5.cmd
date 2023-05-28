@@ -1,0 +1,1 @@
+cd D:\SIP_Team_C\6_Binary-Brain && del testing_rasa.xlsx &&exit()
